@@ -1,0 +1,12 @@
+@import "variable";
+@import "font";
+
+body {
+  font-family: 'SourceHanSansCN', serif;
+  font-weight: normal;
+}
+
+.canvas-text-input {
+  position: fixed;
+  z-index: 1000;
+}
